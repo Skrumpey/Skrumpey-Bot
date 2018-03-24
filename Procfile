@@ -1,1 +1,1 @@
-worker node bot.js;
+worker node (Discord-Bot)/bot.js;
